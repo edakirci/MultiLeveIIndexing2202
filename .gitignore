@@ -1,0 +1,15 @@
+# Compiled executable
+homework
+*.exe
+*.out
+*.o
+
+# Generated binary and index files
+*.dat
+
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
